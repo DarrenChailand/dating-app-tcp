@@ -36,7 +36,7 @@ and [Protocol](docs/PROTOCOL.md) for implementation details.
 Requirements: a POSIX-like system and a C99 compiler (`cc`, Clang, or GCC).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/needlove.git
+git clone https://github.com/DarrenChailand/needlove.git
 cd needlove
 make
 ```
