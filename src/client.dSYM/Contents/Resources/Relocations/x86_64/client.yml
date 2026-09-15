@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/darrenchailand/Documents/University of Toronto/csc209/chailand/a3/needlove-tcp-chat/src/client'
+relocations:     []
+...
