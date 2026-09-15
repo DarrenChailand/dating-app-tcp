@@ -1,4 +1,4 @@
-# NeedLove
+# Dating App
 
 A concurrent terminal dating application built in C with Berkeley sockets and
 `select()`. One authoritative server manages profiles, discovery, mutual
